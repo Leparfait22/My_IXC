@@ -3814,7 +3814,7 @@
           "_id": {
             "$oid": "6563abd5b1dbe725b30f8a2f"
           },
-          "name": "Lampada1",
+          "name": "kada1",
           "type": "switch-bulb",
           "order": 0,
           "device": {
